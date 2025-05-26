@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "29YFj9Fh+d0=",
+  "success": true,
+  "projectFilePath": "/Users/victorkaikecezemerpeixoto/RiderProjects/RabbitMQ-Test/RabbitMQSender/RabbitMQSender/RabbitMQSender.csproj",
+  "expectedPackageFiles": [
+    "/Users/victorkaikecezemerpeixoto/.nuget/packages/rabbitmq.client/7.1.2/rabbitmq.client.7.1.2.nupkg.sha512",
+    "/Users/victorkaikecezemerpeixoto/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/Users/victorkaikecezemerpeixoto/.nuget/packages/system.threading.ratelimiting/8.0.0/system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
